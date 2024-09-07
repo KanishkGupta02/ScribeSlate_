@@ -18,7 +18,6 @@ ScribeSlate is a transcription and translation application that leverages pre-bu
 
 - **Transcription**: Convert speech to text using OpenAI's Whisper model.
 - **Translation**: Translate text between different languages using Xenova/transformers library.
-- **Custom Amount Input**: Allows users to input custom money amounts in the payment system.
 - **Simple UI**: Built with React and styled with Tailwind CSS for a clean and responsive interface.
 
 ## `Installation`
